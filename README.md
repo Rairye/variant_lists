@@ -14,4 +14,4 @@ That package incorporates the unicode confusables list found at https://www.unic
 
 The license of unicode data (including the above unicode confusables list) can be found at https://www.unicode.org/license.txt
 
-The terms of use thereof can be found at https://www.unicode.org/copyright.html
+The copyright information thereof can be found at https://www.unicode.org/copyright.html
